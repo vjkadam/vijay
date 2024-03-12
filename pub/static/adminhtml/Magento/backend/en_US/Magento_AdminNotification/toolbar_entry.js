@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/vijay.mgtcommerce.com/vendor/magento/module-admin-notification/view/adminhtml/web/toolbar_entry.js

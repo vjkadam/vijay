@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/vijay.mgtcommerce.com/vendor/magento/module-advanced-search/view/adminhtml/web/js/testconnection.js

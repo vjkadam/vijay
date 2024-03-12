@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/vijay.mgtcommerce.com/vendor/magento/module-paypal/view/adminhtml/web/js/rule.js

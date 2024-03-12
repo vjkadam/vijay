@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/vijay.mgtcommerce.com/vendor/magento/module-catalog/view/adminhtml/web/catalog/product.js

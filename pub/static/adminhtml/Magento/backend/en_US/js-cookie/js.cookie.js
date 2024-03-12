@@ -1,0 +1,1 @@
+/home/cloudpanel/htdocs/vijay.mgtcommerce.com/lib/web/js-cookie/js.cookie.js
